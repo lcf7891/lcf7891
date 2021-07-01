@@ -12,7 +12,7 @@
   --->
 
 ## GitHub Extra Pins
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lcf7891&repo=lcf7891&title_color=000079&text_color=6A6AFF&show_icons=true&icon_color=9F0050&bg_color=00A600,53FF53,CEFFCE&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lcf7891&repo=lcf7891&?theme=dracula&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Top Languages Card
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcf7891&layout=compact&title_color=000079&text_color=6A6AFF&show_icons=true&bg_color=00A600,53FF53,CEFFCE&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
