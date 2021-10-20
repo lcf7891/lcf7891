@@ -12,15 +12,15 @@
   --->
 
 ## GitHub Extra Pins
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lcf7891&langs_count=8)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lcf7891&repo=lcf7891&theme=merko&border_color=15fa004d&border_radius=20&bg_color=deg,001C69,2C5DE6)
 
 ## Top Languages Card
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcf7891&layout=compact&title_color=000079&text_color=6A6AFF&show_icons=true&bg_color=00A600,53FF53,CEFFCE&hide_border=true&border_radius=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lcf7891&layout=compact&theme=merko&border_color=15fa004d&border_radius=20&bg_color=deg,001C69,2C5DE6)
 
-## GitHub Readme Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcf7891&title_color=000079&text_color=6A6AFF&show_icons=true&icon_color=9F0050&bg_color=00A600,53FF53,CEFFCE&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats Card
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lcf7891&count_private=true&show_icons=true&theme=merko&border_color=15fa004d&border_radius=20&bg_color=deg,001C69,2C5DE6)
 
-Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone). 
+Note: Available ranks are S+ (top 1%), S (top 25%), A++ (top 45%), A+ (top 60%), and B+ (everyone).  
 [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 
